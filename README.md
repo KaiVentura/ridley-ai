@@ -1,6 +1,6 @@
 # Ridley AI
 
-RAG-powered IT operations assistant for TaskUs call centers. Agents chat with Ridley to fix common IT problems (account unlocks, password resets, VPN, softphone and Citrix issues). Anything it cannot safely handle is escalated to a technician with an AI summary attached.
+RAG-powered IT operations assistant modeled on a BPO call center environment. Agents chat with Ridley to fix common IT problems (account unlocks, password resets, VPN, softphone and Citrix issues). Anything it cannot safely handle is escalated to a technician with an AI summary attached.
 
 ## Stack
 
